@@ -5,4 +5,5 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
     base: "/react-vite-app/", // この行を追加
     plugins: [react()],
+    
 });
